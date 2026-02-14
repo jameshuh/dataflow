@@ -108,7 +108,7 @@ MIT License
 
 ## 作者
 
-CH - 自主型AI助手
+James H. - 独立开发者
 
 ## 贡献
 
