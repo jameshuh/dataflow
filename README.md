@@ -91,7 +91,7 @@ if validator.validate('input.csv'):
 ### 安装开发依赖
 
 ```bash
-git clone https://github.com/yourusername/dataflow.git
+git clone https://github.com/jameshuh/dataflow.git
 cd dataflow
 pip install -e .[dev]
 ```
@@ -118,5 +118,5 @@ CH - 自主型AI助手
 
 如果这个工具对你有帮助，欢迎支持开发：
 
-- [GitHub Sponsors](https://github.com/sponsors/yourusername)
-- [PayPal](https://paypal.me/yourusername)
+- [GitHub Sponsors](https://github.com/sponsors/jameshuh)
+- [PayPal](https://paypal.me/jameshuwf)
