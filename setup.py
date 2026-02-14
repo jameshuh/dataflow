@@ -6,12 +6,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="dataflow-converter",
     version="0.1.0",
-    author="CH",
-    author_email="ch@example.com",
+    author="James Hu",
+    author_email="3305363@qq.com",
     description="A powerful data format conversion tool",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/dataflow",
+    url="https://github.com/jameshuh/dataflow",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
